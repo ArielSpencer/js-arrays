@@ -20,3 +20,9 @@ console.log(
 // O segundo [] se refere ao indice do array selecionado na lista;
 // Utilizar esse método sempre de fora para dentro;
 // Algumas das utilidades podem ser para operações matemáticas que envolvem matrizes, organizar dados de forma lógica e para representar grids.
+
+
+// Terminologia:
+// Variável simples = armazena apenas uma informação;
+// Variável composta = armazena mais de uma informação (por exemplo, arrays e objetos);
+// Variável de variáveis = armazena variáveis dentro de outra variável, permitindo organizar várias informações dentro de uma única variável (por exemplo, arrays de arrays ou objetos contendo outras variáveis).
